@@ -1,3 +1,1 @@
-Personal repository
-useful in a pinch
-will use this folder for tests
+Simple Shell project 0x16.c
